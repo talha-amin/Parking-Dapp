@@ -41,10 +41,3 @@ The project is split into two folders ([hardhat](hardhat) and [frontend](fronten
 
 https://super-voice-9814.on.fleek.co/
 
-## Screencast link
-
-https://www.youtube.com/watch?v=yQ9OrATkuqg
-
-## Other
-
-> My public ETH address for certification (NFT): 0xCb1E63be3e892126eED1345831720759435c9066
